@@ -3,6 +3,6 @@
 - [Брауни](brownie.md)
 - [Банановые панкейки](banana.md)
 - Картофель «Айдахо»
-- [Банановый хлеб] (bananabread.md)
+- [Банановый хлеб](bananabread.md)
 - [Курица "Пикассо"](chicken.md)
-- [Пирог с капустой] (cabbage_pie.md)
+- [Пирог с капустой](cabbage_pie.md)
